@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConvertApp</string>
+    <string name="converting">Идет конвертация. Подождите…</string>
+    <string name="cancel">Отмена</string>
+    <string name="error">Возникла ошибка. Повторим?</string>
+    <string name="ok">Да</string>
+    <string name="success">Успешно</string>
+</resources>
